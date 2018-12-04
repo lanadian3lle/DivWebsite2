@@ -1,0 +1,43 @@
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.header {
+    background-color: #3ab3d8;
+    height: 50px;
+}
+
+.leftcolumn {
+    width:20%;
+    float: left;
+    background-color: darkkhaki      
+}
+
+.rightcolumn {
+    width:80%;
+    float:left;
+    background-color: darksalmon 
+}
+
+
+
+.headertop {
+    height: 20px;
+    
+}
+
+.headerbototm {
+    height: 20px;
+}
+
+.columnleft {
+    height: 500px;
+    float:left;
+}
+
+.columnright {
+    height: 50px;
+    float: left;
+}
