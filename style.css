@@ -20,11 +20,19 @@
 .leftcolumn {
     height: 500px;
     float:left;
-    background-color: lightgoldenrodyellow
+    background-color: lightgoldenrodyellow;
+    width:20px;
 }
 
 .rightcolumn {
     height: 500px;
     float: left;
     background-color: lightgoldenrodyellow;
+    width: 20px;
+    
+}
+
+.columncebter {
+    width: 60px;
+    background-color: lightpink;
 }
