@@ -7,8 +7,10 @@
 
 
 .headertop {
-    height: 20px;
+    height: 100px;
     background-color: lightblue;
+    text-align: center;
+    
     
 }
 
@@ -43,7 +45,7 @@
     
    height: 40px;
     width: 100%;
-    float: left;
+    clear: left;
     background-color: #f5cb99;
     
 }
